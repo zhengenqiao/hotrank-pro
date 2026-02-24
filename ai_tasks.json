@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "command": "echo 'Hello from GitHub Task Queue!'",
+      "from": "测试",
+      "executor": "思远",
+      "status": "pending",
+      "result": "",
+      "created_at": "2026-02-24 19:24:47"
+    }
+  ]
+}
